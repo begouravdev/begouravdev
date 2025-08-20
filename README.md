@@ -1,98 +1,67 @@
-Hi, I’m Gourav Singh 👋
+# Hey there, I’m Gourav Singh (begouravdev) 👋
 
-Full‑stack & Mobile Engineer · React Native, Flutter, React/Next.js, Node.js · Serverless, DevOps · Open to freelance & leadership roles
+**Full-stack & Mobile Engineer** • React Native · Flutter · React/Next.js · Node.js · Serverless · DevOps
 
+---
 
-⸻
+## ​ Activity Snapshot
+*Here’s what I’ve been up to this week:*
 
-🚀 About me
-	•	Builder at heart: I design, ship, and scale modern web & mobile applications.
-	•	Comfortable across the stack: React Native, Flutter, React/Next.js, Node.js/Express, GraphQL/REST, PostgreSQL/MongoDB.
-	•	Infra & Ops: Serverless (AWS Lambda), Docker, CI/CD, Monitoring.
-	•	I lead teams, refine roadmaps, and obsess over DX and performance.
+<details>
+<summary>Click to expand</summary>
 
-💼 Available for freelance/consulting — best way to reach me is via Upwork: upwork.com/freelancers/~0182dceaeac54c67f3
+*(Automatically generated—customize with your tool/stats.)*
 
-⸻
+</details>
 
-🧰 Tech Stack
+---
 
-Mobile
+## ⏱ Weekly Coding Activity
 
- 
+TypeScript   10 hrs 5 mins   █████████████████████▓░░░░   86.7%
+JSON         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░   6.5%
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░   3.5%
+CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░   1.6%
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░   1.0%
 
- 
+---
 
- 
+## ​ GitHub At a Glance
 
-Frontend
+[![Gourav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=begouravdev&show_icons=true&theme=radical)](https://github.com/begouravdev)
 
- 
+---
 
- 
+## ​ Connect with Me
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0182dceaeac54c67f3)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn–YourName-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
 
- 
+---
 
-Backend
+##  Featured & Pinned Projects
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| [Project One](#) | One-liner about what it does & your role | React, Node.js, AWS |
+| [Project Two](#) | Key impact or outcome | Flutter, GraphQL |
+| [Project Three](#) | Notable feature or outcome | React Native, MongoDB |
 
- 
+*(Remember: Go to your GitHub profile → **Customize your pins** to feature these.)*
 
- 
+---
 
- 
+## ​ What I Do
+- Build scalable *web & mobile* apps (React/Next.js + Node.js)
+- Cross-platform apps with *React Native* and *Flutter*
+- Set up CI/CD pipelines (GitHub Actions, Serverless deploys)
+- Strong emphasis on *DX, performance optimization*, and monitoring
 
-Databases
+---
 
- 
+##  Talk to Me
+- **Hire me** via Upwork: [begouravdev](https://www.upwork.com/freelancers/~0182dceaeac54c67f3)  
+- Check my projects on **GitHub**: [github.com/begouravdev](https://github.com/begouravdev)
 
-Infra & DevOps
+---
 
- 
-
- 
-
- 
-
-Other
-
- 
-
- 
-
-
-⸻
-
-✨ Highlights
-	•	📱 Built and shipped multiple cross‑platform apps (RN + Flutter)
-	•	🌐 Scalable web apps with Next.js + Node.js backends
-	•	🧰 Automated pipelines: GitHub Actions → VPS/Serverless deploys
-	•	📈 Obsessed with performance, monitoring, and DX
-
-⸻
-
-🧩 Featured Projects
-
-Pin your best repositories so they appear here on your profile. Meanwhile, here are quick slots you can fill:
-
-	•	Project One – one‑liner value prop. [Repo] · [Live]
-	•	Project Two – what it does & your impact. [Repo] · [Live]
-	•	Project Three – tech used and outcome. [Repo] · [Live]
-
-⸻
-
-📊 GitHub Stats
-
-These cards are external renders. If they don’t load, try refreshing or check the service status.
-
-
-⸻
-
-🤝 Work with me
-
-If you need help building an MVP, scaling a product, or leading a feature squad:
-	•	📮 DM on Upwork: upwork.com/freelancers/~0182dceaeac54c67f3
-	•	🧑‍💻 GitHub: github.com/begouravdev
-
-⸻
-
-Built with ❤️ by Gourav Singh · Always happy to connect and collaborate.
+\*Built with ❤️ by Gourav Singh – Always excited to collaborate.*
