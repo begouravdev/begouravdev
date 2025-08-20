@@ -31,12 +31,6 @@ JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░
 
 ---
 
-## 🔥 GitHub At a Glance
-
-[![Gourav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=begouravdev\&show_icons=true\&theme=radical)](https://github.com/begouravdev)
-
----
-
 ## 🧰 Tech Stack
 
 **Mobile**
@@ -68,7 +62,8 @@ JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░
 
 ---
 
-## 🧩 Featured Projects
+<!-- TODO: Will Show Letter
+ ## 🧩 Featured Projects
 
 > Pin your best repositories so they appear here on your profile. Meanwhile, here are quick slots you can fill:
 
@@ -76,7 +71,7 @@ JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░
 * **Project Two** – what it does & your impact. \[[Repo](#)] · \[[Live](#)]
 * **Project Three** – tech used and outcome. \[[Repo](#)] · \[[Live](#)]
 
----
+--- -->
 
 ## 🤝 Work with me
 
@@ -84,15 +79,6 @@ If you need help building an MVP, scaling a product, or leading a feature squad:
 
 * 📮 **DM on Upwork:** [upwork.com/freelancers/\~0182dceaeac54c67f3](https://www.upwork.com/freelancers/~0182dceaeac54c67f3)
 * 🧑‍💻 **GitHub:** [github.com/begouravdev](https://github.com/begouravdev)
-
----
-
-## ⚙️ How to use this as your profile README
-
-1. Create a repository named exactly **`begouravdev`** (must match your GitHub username).
-2. Add a `README.md` file to that repo and paste this content.
-3. Pin your best projects (go to your profile → **Customize your pins**).
-4. Optionally tweak badges, sections, and add links/screenshots.
 
 ---
 
